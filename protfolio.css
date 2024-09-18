@@ -152,6 +152,38 @@ background-color: #fff;
 box-shadow: 0px 6px 50px 0px rgb(0, 0, 0, 0.06) ;
 }
 
+.resume-contaner{
+display: flex;
+padding: 30px 150px;
+justify-content: space-around;
+}
+
+.r-item-info{
+color: #565252ae;
+
+}
+.r-tital{
+  font-size: 40px;
+}
+
+.r-colam{
+  gap: 5px;
+}
+.r-i-driscption{
+  color: #646060d9;
+}
+
+.r-colam{
+
+padding: 10px 30px;
+
+}
+.d-cv{
+text-align: center;
+
+}
+
+
 
 
 
