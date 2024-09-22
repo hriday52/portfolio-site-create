@@ -183,6 +183,54 @@ text-align: center;
 
 }
 
+.footer-styel{
+display: flex;
+padding: 30px 150px;
+
+}
+
+
+.footer-colam{
+
+  padding: 30px;
+  border-radius: 5PX;
+  background-color: #fff;
+  box-shadow: 0px 6px 50px 0px rgb(0, 0, 0, 0.06) ;
+margin: 30px;
+}
+
+
+#so-link{
+width: 40%;
+
+
+}
+
+
+
+
+
+
+.contract{
+width: 50%;
+
+
+}
+
+.contract input ,textarea{
+display: block;
+margin-bottom: 25px;
+padding: 18px 35px;
+color: #fef9f9;
+border-radius: 5px;
+background-color: #192046b7;
+width: 100%;
+}
+
+
+
+
+
 
 
 
